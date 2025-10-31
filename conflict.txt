@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line1 from main
+=======
+line1 from feature
+>>>>>>> 9126365 (feature: modify line1)
